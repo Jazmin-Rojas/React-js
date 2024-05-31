@@ -1,0 +1,18 @@
+[
+    {"id":1, "nombre":"Fregadora de pisos A201", "precio":1651581, "descripcion":"A-201 es una vacuolavadora portátil y flexible, fácil en su operación y uso. El mango se ajusta de forma flexible y libre en diferente altura., Diseño de la bola flotante en el estanque de máquina le permite cerrar el reciclaje y paso automáticamente tan pronto como el agua sucia se completa.", "imagen": "https://www.avalco.cl/2526-thickbox_default/fregadora-de-pisos-a201-naranja.jpg", "stock":5, "categoria":"maquinaria"},
+
+    {"id":2, "nombre":"Carro Estrujador Doble", "precio":105.434, "descripcion":"Carro estrujador con doble recipiente para agua limpia y enjuague, con mecanismo para estrujar mopas húmedas ideal de 16 a 24 onzas. Volumen total 46 litros.", "imagen": "https://www.avalco.cl/2410-thickbox_default/carro-estrujador-doble.jpg", "stock":3, "categoria":"maquinaria"},
+
+    {"id":3, "nombre":"Aspiradora Agua/Polvo 70 Lts", "precio":533.537, "descripcion":"Tensión: Monofásica 220V ", "imagen": "https://www.avalco.cl/3408-thickbox_default/aspiradora-415-70-lts.jpg", "stock":5, "categoria":"maquinaria"},
+
+    {"id":4, "nombre":"Acetona Bd 1L", "precio":4.784, "descripcion":"Es un líquido incoloro, un disolvente usado en la fabricación de plásticos y otros productos industriales. La acetona también puede usarse en cantidades limitadas en productos para la casa, entre otros cosméticos y productos de cuidado personal. Puedes encontrar otros formatos en nuestra categoría de acetona", "imagen": "https://www.avalco.cl/3063-thickbox_default/acetona-bidon-1-litro.jpg", "stock":5, "categoria":"quimicos"},
+
+    {"id":5, "nombre":"Cloruro de Alquil Dimetil Bencil Amonio 50% TB 200L", "precio":891.677, "descripcion":"Cloruro de Alquil Dimetil Bencil Amonio 50%  TP 200 lts. Producto de calidad eficaz para acabar por completo con cualquier rastro de bacterias y demás partículas que se hallan en las superficies. Este y otros productos los podrás conseguir en la categoría Cloruro de Alquil.", "imagen": "https://www.avalco.cl/3352-thickbox_default/cloruro-de-alquil-dimetil-bencil-amonio-50-tp-200-lts.jpg", "stock":4,
+    "categoria":"quimicos"},
+
+    {"id":6, "nombre":"Aguarrás - Solvente Alifático Mineral 1L", "precio":2.455, "descripcion":"Aguarrás Mineral 1 Litro es un solvente alifático derivado de la destilación del petróleo de velocidad mediana de evaporación, se utiliza principalmente en la dilución de pinturas sintéticas como por ejemplo óleos, barnices, esmaltes y anticorrosivos.", "imagen": "https://www.avalco.cl/2852-thickbox_default/aguarras-mineral-1-litro.jpg", "stock":10,
+    "categoria":"quimicos"}
+
+    
+
+]
